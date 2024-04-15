@@ -11,7 +11,7 @@ Flask-WTF==0.14.3
 itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
-mysqlclient==2.2.4
+mysqlclient
 PyMySQL==1.1.0
 python-decouple==3.8
 python-dotenv==1.0.1
